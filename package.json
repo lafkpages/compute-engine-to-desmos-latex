@@ -1,0 +1,16 @@
+{
+  "name": "compute-engine-to-desmos-latex",
+  "version": "0.0.1",
+  "module": "src/index.ts",
+  "types": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "files": [
+    "src/index.ts"
+  ]
+}
